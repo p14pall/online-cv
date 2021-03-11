@@ -59,13 +59,7 @@ education:
       university: Ionian University
       time: 2014 - Now
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Informatu=ion Systems
 projects:
     title: Projects
     intro: >
@@ -77,7 +71,7 @@ projects:
 
       - title: Information Systems and Supply Management
         #link: "#"
-        tagline: "Human resources managemnta for an virtual business using ODOO software."
+        tagline: "Human resources management for an virtual business using ODOO software."
 
 skills:
     title: Skills 
