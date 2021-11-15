@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Fotini Pallidou
+    name: Foteini Pallidou
     tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -164,23 +164,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Customer Support
+        level: 85%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: UI/UX Design
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Adobe Photoshop
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
