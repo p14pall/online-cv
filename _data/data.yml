@@ -76,9 +76,9 @@ projects:
     intro: >
       My list of projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SW
+        link: "https://github.com/p14pall/sw"
+        tagline: "An early look into software development"
 
 publications:
     title: Publications
