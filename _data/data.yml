@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Foteini Pallidou
-    tagline: Web Developer
+    tagline: Data Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p14pall@ionio.gr
-    phone: 765476457564
+    phone: 6973002253
     website: github.com/p14pall #do not add http://
     linkedin: fotpall
     github: p14pall
@@ -46,17 +46,17 @@ career-profile:
     summary: |
       Undergraduate Computer Science student at Ionian University
 education:
-    - degree: MSc in Computer Science
+    - degree: BSc in Computer Science
       university: Ionian University
       time: 2014 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The graduate of the Department of Informatics has the scientific and technical expertise to work as 
+        an IT professional, either as self-employed, or as an executive in the private or public sector.
+        More specifically he can be employed as:
+          - Software Engineer
+          - Computer Systems Engineer
+          - Network and Telecommunications Engineer/Administrator
+          - Database Administrator
 experiences:
     - role: Lead Developer
       time: 2014 - Present
@@ -96,10 +96,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: SQL
         level: 95%
 
-      - name: Javascript
+      - name: MS Excel
         level: 90%
 
       - name: Customer Support
